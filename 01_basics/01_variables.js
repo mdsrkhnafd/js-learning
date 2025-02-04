@@ -12,6 +12,10 @@ console.log(accountId);
    because of issue in block scope and functional scope
 */
 
+/*
+Variable is to store the data and variable mean to change the value
+*/
+
 
 acountEmail = "mk@gmail.com";
 accountPassword = "23445";
